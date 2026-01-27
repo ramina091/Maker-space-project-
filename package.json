@@ -1,0 +1,12 @@
+{
+  "name": "english-teacher-site",
+  "version": "1.0.0",
+  "description": "English Teacher Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "start": "servor public 5000 --browse false"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
